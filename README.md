@@ -8,9 +8,9 @@
 # CONNECT ME.
 
 
-[![feedback](https://img.shields.io/badge/feedback/NO_PM⚠️-ffffff?style=for-the-badge&logo=feedback)](https://t.me/norx_bot)
+[![feedback](https://img.shields.io/badge/feedback/FOR_PM⚠️-ffffff?style=for-the-badge&logo=feedback)](https://t.me/norx_bot)
 
-[![telegram](https://img.shields.io/badge/LUSIFER🇮🇳-ffffff?style=for-the-badge&logo=telegram)](https://t.me/shado_hackers)
+[![telegram](https://img.shields.io/badge/LUSIFER-ffffff?style=for-the-badge&logo=telegram)](https://t.me/shado_hackers)
 
 [![Github](https://img.shields.io/badge/LUSIFER-ffffff?style=for-the-badge&logo=github)](https://github.com/lusifernoob)
 
