@@ -7,9 +7,8 @@
 
 # CONNECT ME.
 
-   NO PM ⚠️ (https://t.me/norx_bot)
 
-
+[![feedback](https://img.shields.io/badge/LUSIFER-ffffff?style=for-the-badge&logo=feedback)](https://t.me/norx_bot)
 
 [![telegram](https://img.shields.io/badge/LUSIFER-ffffff?style=for-the-badge&logo=telegram)](https://t.me/shado_hackers)
 
